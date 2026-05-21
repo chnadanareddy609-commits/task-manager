@@ -9,11 +9,11 @@ Users can create projects, assign tasks, track progress, and manage team collabo
 
 ## Frontend (Vercel)
 
-https://team-task-manager-client-olive.vercel.app
+https://task-client-sandy.vercel.app/
 
 ## Backend (Render)
 
-https://team-task-manager-server-azgz.onrender.com
+https://task-server-s7eh.onrender.com
 
 ---
 
@@ -145,7 +145,7 @@ team-task-manager/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/shoyub/team-task-manager
+git clone https://github.com/chnadanareddy609-commits/task-manager
 ```
 
 ---
@@ -273,7 +273,7 @@ The application is fully responsive and works across:
 ## Krishna Sai Rayavaram
 
 GitHub:
-https://github.com/shoyub
+https://github.com/chnadanareddy609-commits
 
 ---
 
